@@ -4,6 +4,9 @@
 }
 .whole{
   background-color: rgb(217, 250, 168);
+  color: green;
+  font-family: Verdana, Helvetica, sans-serif;
+
 }
 .text{
   color: green;
