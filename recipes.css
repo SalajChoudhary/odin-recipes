@@ -1,0 +1,20 @@
+.pics{
+  width: 200px;
+  height: auto;
+}
+.whole{
+  background-color: rgb(217, 250, 168);
+}
+.text{
+  color: green;
+}
+.block{
+  margin: auto;
+  width: fit-content;
+  border: 2px solid green;
+  padding: 1px;
+  text-align: center;
+}
+.link{
+  text-align: left;
+}
